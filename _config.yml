@@ -29,6 +29,9 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/posts/page:num/"
 
+include:
+  - app-ads.txt
+
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 theme: jekyll-theme-clean-blog
 plugins:
